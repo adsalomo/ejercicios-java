@@ -1,8 +1,8 @@
-package com.mycompany.ejercicios.java;
+package com.mycompany.ejercicios.permutacion;
 
 import java.util.Scanner;
 
-public class EjerciciosJava {
+public class Main {
 
     public static void main(String[] args) {
         Permutacion perm = new Permutacion();

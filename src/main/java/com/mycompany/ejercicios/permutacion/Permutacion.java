@@ -1,4 +1,4 @@
-package com.mycompany.ejercicios.java;
+package com.mycompany.ejercicios.permutacion;
 
 public class Permutacion {
     
